@@ -9,7 +9,7 @@ namespace ConsoleApplication2
 {
     class codeJamDiceStraight
     {
-        public static void Main()
+        public static void Main1()
         {
             StreamWriter writer = new StreamWriter(@"C:\Users\ja13\Desktop\DEE_Output\output.txt");
             StreamReader reader = new StreamReader(@"C:\Users\ja13\Desktop\DEE_Output\A-large-practice.in"); //A-small-practice.in    input.txt

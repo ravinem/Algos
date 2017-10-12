@@ -32,7 +32,6 @@ namespace MMT_Elitmus
                 }
                 else
                 {
-                    int ans = 1;
                     while (n != 1 && m != 1)
                     {
                         if (n % 2 == 0)

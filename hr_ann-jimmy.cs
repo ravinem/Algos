@@ -8,7 +8,7 @@ namespace MMT_Elitmus
 {
     class hr_ann_jimmy
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int t = Convert.ToInt32(Console.ReadLine());
             int nums = t;

@@ -19,7 +19,7 @@ namespace ConsoleApplication2
         }
         public static void Main1()
         {
-            GenericMergeSortAlgo<string> s = new GenericMergeSortAlgo<string>();
+            //GenericMergeSortAlgo<string> s = new GenericMergeSortAlgo<string>();
             //int[] n = new int[] { 2, 5, 3, 65, 43, 326, 21, 04,2 };
             string[] st = File.ReadAllLines(@"C:\Users\ja13\Desktop\3d app\OASIS_MB.dat");
 
